@@ -1,0 +1,14 @@
+Package: GCshiny
+Type: Package
+Title: Government of Canada Shiny components
+Version: 0.1.0
+Authors@R: person(
+    "Melissa", "Van Bussel",
+    role = c("aut", "cre"),
+    email = "melissalisevb@gmail.com"
+  )
+Description: This package makes it easier for users to create Shiny apps
+  that are accessible (WCAG AA 2.1) and meet the GC Design standards.
+License: MIT + file LICENSE
+Encoding: UTF-8
+LazyData: true
