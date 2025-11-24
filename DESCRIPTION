@@ -12,3 +12,5 @@ Description: This package makes it easier for users to create Shiny apps
 License: MIT + file LICENSE
 Encoding: UTF-8
 LazyData: true
+URL: https://github.com/melissavanbussel/GCshiny
+BugReports: https://github.com/melissavanbussel/GCshiny/issues
